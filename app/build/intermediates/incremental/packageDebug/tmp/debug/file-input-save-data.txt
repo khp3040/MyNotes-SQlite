@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Jan 06 23:08:57 IST 2023
+0.base=C\:\\Users\\Kshitij Pawar\\Documents\\VNIT-CourseWork\\SEM-2\\SoftwareLab-2\\Assignment-1\\MyNotes SQlite\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX
