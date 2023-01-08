@@ -1,4 +1,13 @@
-#Fri Jan 06 23:08:57 IST 2023
-base.0=C\:\\Users\\Kshitij Pawar\\Documents\\VNIT-CourseWork\\SEM-2\\SoftwareLab-2\\Assignment-1\\MyNotes SQlite\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
-renamed.0=classes.dex
+#Sun Jan 08 14:54:10 IST 2023
+path.3=classes2.dex
+path.2=9/classes.dex
+path.1=0/classes.dex
 path.0=classes.dex
+base.3=C\:\\Users\\Kshitij Pawar\\Documents\\VNIT-CourseWork\\SEM-2\\SoftwareLab-2\\Assignment-1\\MyNotes-SQlite\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+base.2=C\:\\Users\\Kshitij Pawar\\Documents\\VNIT-CourseWork\\SEM-2\\SoftwareLab-2\\Assignment-1\\MyNotes-SQlite\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
+base.1=C\:\\Users\\Kshitij Pawar\\Documents\\VNIT-CourseWork\\SEM-2\\SoftwareLab-2\\Assignment-1\\MyNotes-SQlite\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.0=C\:\\Users\\Kshitij Pawar\\Documents\\VNIT-CourseWork\\SEM-2\\SoftwareLab-2\\Assignment-1\\MyNotes-SQlite\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
