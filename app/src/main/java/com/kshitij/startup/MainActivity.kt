@@ -250,8 +250,8 @@ class MainActivity : AppCompatActivity() {
                                         .setNegativeButton(
                                             "No",
                                             DialogInterface.OnClickListener { p0, p1 ->
-                                                this@MainActivity.finish()
-                                                exitProcess(0)
+                                                //this@MainActivity.finish()
+                                                //exitProcess(0)
                                             })
                                         .setCancelable(false)
                                         .show()
