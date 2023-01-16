@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109054476913",
+    "project_id": "mynotes-sqlite",
+    "storage_bucket": "mynotes-sqlite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109054476913:android:f01d63920152396fbb11d0",
+        "android_client_info": {
+          "package_name": "com.kshitij.nodesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109054476913-7p08iq6ko1h918de009hs29mg1lmcl0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM4xocPEWkAXhQXLHIpdauC_zu1JOHl5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109054476913-7p08iq6ko1h918de009hs29mg1lmcl0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

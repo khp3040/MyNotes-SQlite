@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "com.kshitij.startup.app-merged_res-33:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.kshitij.startup.app-main-35:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.kshitij.startup.app-merged_res-33:/drawable-mdpi_ic_search_black_24dp.png.flat",
+        "source": "com.kshitij.startup.app-pngs-28:/drawable-mdpi/ic_search_black_24dp.png"
+    },
+    {
+        "merged": "com.kshitij.startup.app-merged_res-33:/drawable_background_layout.xml.flat",
+        "source": "com.kshitij.startup.app-main-35:/drawable/background_layout.xml"
+    },
+    {
+        "merged": "com.kshitij.startup.app-merged_res-33:/drawable_bublue_color.xml.flat",
+        "source": "com.kshitij.startup.app-main-35:/drawable/bublue_color.xml"
+    },
+    {
+        "merged": "com.kshitij.startup.app-merged_res-33:/drawable_ic_note_add_black_24dp.png.flat",
+        "source": "com.kshitij.startup.app-main-35:/drawable/ic_note_add_black_24dp.png"
+    },
+    {
+        "merged": "com.kshitij.startup.app-merged_res-33:/drawable_ic_mode_edit_black_24dp.png.flat",
+        "source": "com.kshitij.startup.app-main-35:/drawable/ic_mode_edit_black_24dp.png"
+    },
+    {
+        "merged": "com.kshitij.startup.app-merged_res-33:/drawable-xhdpi_ic_search_black_24dp.png.flat",
+        "source": "com.kshitij.startup.app-pngs-28:/drawable-xhdpi/ic_search_black_24dp.png"
+    },
+    {
+        "merged": "com.kshitij.startup.app-merged_res-33:/drawable-xxxhdpi_ic_search_black_24dp.png.flat",
+        "source": "com.kshitij.startup.app-pngs-28:/drawable-xxxhdpi/ic_search_black_24dp.png"
+    },
+    {
+        "merged": "com.kshitij.startup.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.kshitij.startup.app-main-35:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.kshitij.startup.app-merged_res-33:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.kshitij.startup.app-main-35:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.kshitij.startup.app-merged_res-33:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.kshitij.startup.app-main-35:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.kshitij.startup.app-merged_res-33:/drawable-ldpi_ic_search_black_24dp.png.flat",
+        "source": "com.kshitij.startup.app-pngs-28:/drawable-ldpi/ic_search_black_24dp.png"
+    },
+    {
+        "merged": "com.kshitij.startup.app-merged_res-33:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.kshitij.startup.app-main-35:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.kshitij.startup.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.kshitij.startup.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.kshitij.startup.app-merged_res-33:/drawable-xxhdpi_ic_search_black_24dp.png.flat",
+        "source": "com.kshitij.startup.app-pngs-28:/drawable-xxhdpi/ic_search_black_24dp.png"
+    },
+    {
+        "merged": "com.kshitij.startup.app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "com.kshitij.startup.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.kshitij.startup.app-merged_res-33:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.kshitij.startup.app-main-35:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.kshitij.startup.app-merged_res-33:/menu_main_menu.xml.flat",
+        "source": "com.kshitij.startup.app-main-35:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.kshitij.startup.app-merged_res-33:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.kshitij.startup.app-main-35:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.kshitij.startup.app-merged_res-33:/drawable_ic_delete_black_24dp.png.flat",
+        "source": "com.kshitij.startup.app-main-35:/drawable/ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "com.kshitij.startup.app-merged_res-33:/layout_ticcket.xml.flat",
+        "source": "com.kshitij.startup.app-main-35:/layout/ticcket.xml"
+    },
+    {
+        "merged": "com.kshitij.startup.app-merged_res-33:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.kshitij.startup.app-main-35:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.kshitij.startup.app-merged_res-33:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.kshitij.startup.app-main-35:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.kshitij.startup.app-merged_res-33:/drawable-hdpi_ic_search_black_24dp.png.flat",
+        "source": "com.kshitij.startup.app-pngs-28:/drawable-hdpi/ic_search_black_24dp.png"
+    },
+    {
+        "merged": "com.kshitij.startup.app-merged_res-33:/layout_activity_add_notes.xml.flat",
+        "source": "com.kshitij.startup.app-main-35:/layout/activity_add_notes.xml"
+    },
+    {
+        "merged": "com.kshitij.startup.app-merged_res-33:/drawable_appicons.png.flat",
+        "source": "com.kshitij.startup.app-main-35:/drawable/appicons.png"
+    },
+    {
+        "merged": "com.kshitij.startup.app-merged_res-33:/drawable-anydpi-v21_ic_search_black_24dp.xml.flat",
+        "source": "com.kshitij.startup.app-pngs-28:/drawable-anydpi-v21/ic_search_black_24dp.xml"
+    }
+]
