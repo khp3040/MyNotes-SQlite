@@ -1,6 +1,6 @@
 # MyNotes-SQlite
 
-#App Details:
+# App Details:
 IDE Used : Android Studio
 Language : Kotlin
 Build Tool : Gradle and Maven
