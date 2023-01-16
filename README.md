@@ -1,12 +1,12 @@
 # MyNotes-SQlite
 
 # App Details:
-IDE Used : Android Studio
-Language : Kotlin
-Build Tool : Gradle and Maven
-Version Control : GitHub and Git
-Database Used to store in-app data : SQlite
-Database Used to Store Generated APK's to implement manual update feature : CloudFireStore from Firebase
+1. IDE Used : Android Studio.
+2. Language : Kotlin
+3. Build Tool : Gradle and Maven
+4. Version Control : GitHub and Git
+5. Database Used to store in-app data : SQlite
+6. Database Used to Store Generated APK's to implement manual update feature : CloudFireStore from Firebase
 
 # Features and Functionality
 1. MyNotes app helps you write notes in text format and store it.
